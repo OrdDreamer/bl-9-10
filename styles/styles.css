@@ -1,37 +1,49 @@
 body {
-    font-family: 'Poppins', sans-serif;
-    background-color: #c4c4c4;
+  font-family: "Poppins", sans-serif;
+  background-color: #c4c4c4;
 }
 
 ul {
-    margin: 0;
-    padding: 0;
-    list-style: none;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 .logo {
-    font-weight: 600;
-    font-size: 22px;
-    line-height: 1.5;
-    color: rgba(255, 255, 255, 0.9);
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.9);
 }
 
 .link {
-    text-decoration: none;
-    color: inherit;
+  text-decoration: none;
+  color: inherit;
 }
 
 .menu {
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    color: rgba(255, 255, 255, 0.55);
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.55);
 }
 
 .button {
-    font-weight: 600;
-    font-size: 16px;
-    line-height: 1.5;
-    color: rgba(255, 255, 255, 0.78);
-    font-family: inherit;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.5;
+  color: rgba(255, 255, 255, 0.78);
+  font-family: inherit;
+}
+.hero-title {
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 1.4;
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.hero-decst {
+  font-size: 18px;
+  line-height: 1.67;
+  color: rgba(255, 255, 255, 0.55);
 }
