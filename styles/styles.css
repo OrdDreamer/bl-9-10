@@ -1,6 +1,6 @@
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #c4c4c4;
+  background-color: #1E252B;
 }
 
 ul {
@@ -95,3 +95,12 @@ ul {
 
 
 /* =================/tools================== */
+
+ /*========= brands ============= */
+.brands-title {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 1.5;
+    color: rgba(255, 255, 255, 0.8);
+}
+ /*========= /brands ===============*/
